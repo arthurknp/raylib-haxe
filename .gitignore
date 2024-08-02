@@ -171,3 +171,5 @@ pip-log.txt
 *.backup
 bin-legacy/
 bin-cpp/
+*.n
+*.bat
